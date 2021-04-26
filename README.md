@@ -2,7 +2,7 @@
 
 https://college-mapper.us
 
-College mapper API to support data transmission to client interfaces.
+API to support function of college mapper client interfaces.
 
 Additional documentation can be found [here](https://tams-open-source.github.io/college-mapper-documentation.html).
 
